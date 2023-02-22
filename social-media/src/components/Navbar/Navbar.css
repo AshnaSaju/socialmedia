@@ -1,0 +1,51 @@
+.navbar{
+    width: 20%;
+}
+.user{
+    width: 100%;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: white;
+    border-radius: 2%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 10% 2%;
+}
+.profilepic{
+    height: 100%;
+    width: 30%;
+}
+
+.user{
+    display: flex;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: larger;
+    padding: 5%;
+
+}
+
+.navbar-items{
+    width: 100%;
+    margin-top: 10%;
+    list-style: none;
+    padding: 5%;
+    font-size: larger;
+    background-color: white;
+    border-radius: 2%;
+    box-shadow: 1px 1px 1px 1px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 10% 2%;
+
+}
+
+li{
+    margin: 20% 0;
+    padding: 5%;
+}
+
+i{
+    margin-right: 5%;
+}
